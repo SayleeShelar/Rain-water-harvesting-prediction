@@ -1,6 +1,4 @@
-Here’s a well-structured **README.md** version of your project content:
 
-````markdown
 # Rainwater Harvesting Prediction Model
 
 This repository contains a machine learning project that predicts the volume of rainwater that can be harvested. The model is trained on a synthetic dataset and deployed using a Streamlit web application.
